@@ -43,7 +43,7 @@ class ForthGrid extends StatelessWidget {
                       borderRadius: BorderRadius.circular(50)),
                 ))),
         Positioned(
-          top: 10,
+          top: 8,
           left: 150,
           child: InkWell(
               onTap: () {},

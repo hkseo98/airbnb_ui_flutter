@@ -1,5 +1,6 @@
 import 'package:airbnb_ui/app_bar/end.dart';
 import 'package:airbnb_ui/controller/center_bar_controller.dart';
+import 'package:airbnb_ui/custom/customedText.dart';
 import 'package:airbnb_ui/search.dart/exercise_search.dart';
 import 'package:airbnb_ui/search.dart/room_search.dart';
 import 'package:airbnb_ui/size.dart';
@@ -10,9 +11,6 @@ import 'package:url_launcher/url_launcher.dart';
 import '../constants.dart';
 
 const _url = 'https://www.airbnb.co.kr/s/experiences/online';
-
-void _launchURL() async =>
-    await canLaunch(_url) ? await launch(_url) : throw 'Could not launch $_url';
 
 // ignore: must_be_immutable
 class MainPage extends StatelessWidget {
@@ -66,7 +64,6 @@ class MainPage extends StatelessWidget {
                 InkWell(
                     onHover: (value) {
                       controller.isRoomHovering.value = value;
-                      print(controller.isRoomHovering.value);
                     },
                     onTap: () {
                       controller.activeGrid.value = 'room';
@@ -213,6 +210,50 @@ class MainPage extends StatelessWidget {
                   : controller.activeGrid.value == 'exercise'
                       ? ExerciseSearch()
                       : RoomSearch()),
+          Spacer(),
+          Center(
+              child: CustomedText(text: '어디든 상관없이 떠나고 싶을 때 에어비앤비가 도와 드립니다!')),
+          SizedBox(
+            height: 15,
+          ),
+          InkWell(
+              onHover: (value) {
+                controller.isFlexibleSearchHovering.value = value;
+              },
+              onTap: () {},
+              child: Obx(
+                () => Container(
+                  child: Center(
+                      child: Image.asset(
+                    'gradient.png',
+                    width: 120,
+                    height: 30,
+                  )),
+                  width: 200,
+                  height: 70,
+                  decoration: BoxDecoration(
+                      boxShadow: [
+                        controller.isFlexibleSearchHovering.value
+                            ? BoxShadow(
+                                color: Colors.black.withOpacity(0.3),
+                                spreadRadius: 1,
+                                blurRadius: 7,
+                                offset:
+                                    Offset(0, 1), // changes position of shadow
+                              )
+                            : BoxShadow(
+                                color: Colors.black.withOpacity(0.1),
+                                spreadRadius: 1,
+                                blurRadius: 7,
+                                offset:
+                                    Offset(0, 1), // changes position of shadow
+                              )
+                      ],
+                      color: Colors.white,
+                      borderRadius: BorderRadius.circular(35)),
+                ),
+              )),
+          Spacer(),
         ],
       ),
     );

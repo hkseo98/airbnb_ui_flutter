@@ -4,6 +4,7 @@ class CenterBarController extends GetxController {
   RxBool isRoomHovering = false.obs;
   RxBool isExcerciseHovering = false.obs;
   RxBool isOnlineHovering = false.obs;
+  RxBool isFlexibleSearchHovering = false.obs;
 
   RxBool isRoomTapped = false.obs;
   RxBool isExcerciseTapped = false.obs;

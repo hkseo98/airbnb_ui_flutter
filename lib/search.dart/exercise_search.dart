@@ -1,10 +1,7 @@
 import 'package:airbnb_ui/search.dart/date_grid.dart';
-import 'package:airbnb_ui/search.dart/forth_grid.dart';
-import 'package:airbnb_ui/search.dart/second_grid.dart';
-import 'package:airbnb_ui/search.dart/third_grid.dart';
+
 import 'package:flutter/material.dart';
 
-import 'first_grid.dart';
 import 'location_grid.dart';
 
 // ignore: must_be_immutable
