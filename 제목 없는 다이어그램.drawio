@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T06:16:11.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ic5ihw8-m_t-p2BgP1j5" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T06:20:35.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oeZe6-VHjr8NpoKrvYm8" version="20.4.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2258" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -75,10 +75,10 @@
         <mxCell id="qVj28lsYevXOe8eaYTV5-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-180" y="365" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-31" target="qVj28lsYevXOe8eaYTV5-38">
+        <mxCell id="qVj28lsYevXOe8eaYTV5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-31" target="qVj28lsYevXOe8eaYTV5-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-31" target="qVj28lsYevXOe8eaYTV5-43">
+        <mxCell id="qVj28lsYevXOe8eaYTV5-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-31" target="qVj28lsYevXOe8eaYTV5-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVj28lsYevXOe8eaYTV5-31" value="순서대로 운동 진행하는 데 어려움이 있는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -89,9 +89,6 @@
         </mxCell>
         <mxCell id="qVj28lsYevXOe8eaYTV5-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="365" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qVj28lsYevXOe8eaYTV5-40" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-260" y="395" width="40" height="30" as="geometry" />
@@ -113,6 +110,32 @@
         </mxCell>
         <mxCell id="qVj28lsYevXOe8eaYTV5-49" value="루틴 수정" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-53" target="qVj28lsYevXOe8eaYTV5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-53" target="qVj28lsYevXOe8eaYTV5-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-53" value="운동 기록을 남길 것인가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-59" target="qVj28lsYevXOe8eaYTV5-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-59" value="운동 기록 페이지에서 기록 남기기" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469.99999999999955" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-61" value="저장 버튼 누르기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-63" value="분석 메뉴에서 운동, 신체 현황 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
