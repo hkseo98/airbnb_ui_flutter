@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T06:54:36.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xJgkb_6u3VpEKIPwUF_6" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T06:56:42.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5F62_XTSwUQT4wUykXUr" version="20.4.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1803" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -393,7 +393,7 @@
         <mxCell id="qVj28lsYevXOe8eaYTV5-248" value="기록 메뉴 선택" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-250" target="qVj28lsYevXOe8eaYTV5-256">
+        <mxCell id="qVj28lsYevXOe8eaYTV5-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-250" target="qVj28lsYevXOe8eaYTV5-258">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVj28lsYevXOe8eaYTV5-250" value="프로필 메뉴 선택" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -408,8 +408,29 @@
         <mxCell id="qVj28lsYevXOe8eaYTV5-254" value="운동 기록 조회/추가" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-256" value="프로필 확인/수정" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="1740" width="120" height="60" as="geometry" />
+        <mxCell id="qVj28lsYevXOe8eaYTV5-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-258" target="qVj28lsYevXOe8eaYTV5-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-258" target="qVj28lsYevXOe8eaYTV5-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-258" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;프로필을 수정할 것인가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-260" target="qVj28lsYevXOe8eaYTV5-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-260" value="프로필 편집 버튼 누름" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-264" value="프로필 수정" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-267" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1820" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVj28lsYevXOe8eaYTV5-269" value="내 프로필 조회, 게시물 조회/삭제" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
