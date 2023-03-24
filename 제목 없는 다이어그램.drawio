@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T09:05:43.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MeZvfckrqSZgWu18f4Y-" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-24T09:14:03.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lgfE0lWlz5rKCFzxS_DP" version="20.4.1" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2740" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -464,6 +464,9 @@
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-6" value="분석" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-7" target="Zt7Bl_mM1eI3DXaJqRND-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-7" value="커뮤니티" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -497,13 +500,19 @@
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-23" value="부위별 볼륨(운동 강도)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-24" target="Zt7Bl_mM1eI3DXaJqRND-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-24" value="추천 운동 시작" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-26" target="Zt7Bl_mM1eI3DXaJqRND-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-26" value="정보 수정" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-28" value="" style="shape=link;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-28" value="" style="shape=link;html=1;rounded=0;fontSize=12;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-29">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="509.29" y="380" as="sourcePoint" />
             <mxPoint x="509" y="890" as="targetPoint" />
@@ -518,17 +527,47 @@
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-31" value="즐겨찾기 등록한 운동 목록" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-32" value="운동 분할, 수준. 횟수 정보" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-32" value="운동 분할, 수준. 횟수" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-33" value="신체, 신체 목표 정보" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-33" value="신체, 신체 목표" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-34" value="신제 목표 정보" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-34" value="신제 목표" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-35" value="운동 루틴 정보" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-35" value="운동 루틴" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-36" value="" style="shape=link;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-37">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="309.2900000000002" y="380" as="sourcePoint" />
+            <mxPoint x="309.0000000000002" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-37" value="소요 시간" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-38" value="세트 간 쉬는 시간 간격" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-39" value="운동 순서" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-40" value="세트 당 중량, 횟수" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-41" value="완료한 세트" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-42" value="신제 목표 정보" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-43" value="운동 루틴 정보" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-44" value="커뮤니티" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
