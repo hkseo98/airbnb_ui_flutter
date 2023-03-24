@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T06:25:52.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bFg-Ua5GER2Jom7PPjO2" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T06:27:50.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PBMPTBLba2fa1grXijci" version="20.4.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1956" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
             <mxPoint x="-260" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-68" target="qVj28lsYevXOe8eaYTV5-74">
+        <mxCell id="qVj28lsYevXOe8eaYTV5-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="qVj28lsYevXOe8eaYTV5-68" target="qVj28lsYevXOe8eaYTV5-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVj28lsYevXOe8eaYTV5-68" value="운동을 할 것인가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,11 +151,8 @@
         <mxCell id="qVj28lsYevXOe8eaYTV5-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-355" y="365" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-74" value="커뮤니티를 확인할 것인가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="485" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qVj28lsYevXOe8eaYTV5-76" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="410" width="40" height="30" as="geometry" />
+        <mxCell id="qVj28lsYevXOe8eaYTV5-80" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;커뮤니티, 분석, MY 메뉴중 하나로 이동&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="495" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
