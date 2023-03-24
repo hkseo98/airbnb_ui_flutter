@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T09:24:54.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="88GJeKC5Eux6BLhGjm8g" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-24T09:26:42.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1SNNirPpQd6wZ6TbgCrZ" version="20.4.1" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2740" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -648,9 +648,6 @@
             <mxPoint x="929.47" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-70" target="Zt7Bl_mM1eI3DXaJqRND-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-70" value="댓글" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -666,6 +663,9 @@
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-75" value="기록" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1030" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Zt7Bl_mM1eI3DXaJqRND-78" target="Zt7Bl_mM1eI3DXaJqRND-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-78" value="프로필" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -680,6 +680,9 @@
         </mxCell>
         <mxCell id="Zt7Bl_mM1eI3DXaJqRND-84" value="운동기록 추가 기능" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1030" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt7Bl_mM1eI3DXaJqRND-85" value="프로필" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
